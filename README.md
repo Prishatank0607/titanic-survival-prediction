@@ -79,4 +79,4 @@ pip install -r requirements.txt
 jupyter notebook
 
 # Open and run the notebook
-# titanic_survival_prediction.ipynb
+titanic_survival_prediction.ipynb
