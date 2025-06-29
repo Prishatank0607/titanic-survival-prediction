@@ -1,12 +1,8 @@
 # Titanic Survival Prediction
 
-This project presents a machine learning-based approach to predict passenger survival on the Titanic. It involves training multiple classification models and evaluating their performance using metrics such as accuracy, precision, recall, and F1-score. To enhance model performance, hyperparameter tuning is applied using both GridSearchCV and RandomizedSearchCV. The final step involves analyzing the evaluation results to identify and select the best-performing model for the classification task.
-
----
-
 ## About the Project
 
-The goal of this project is to apply supervised machine learning algorithms to predict whether a passenger survived the Titanic disaster, based on attributes like age, sex, fare, class, and embarkation point. The project implements data preprocessing, model training, performance evaluation, and hyperparameter tuning using both GridSearchCV and RandomizedSearchCV.
+This project presents a machine learning-based approach to predict passenger survival on the Titanic,based on attributes like age, sex, fare, class, and embarkation point. It involves training multiple classification models and evaluating their performance using metrics such as accuracy, precision, recall, and F1-score. To enhance model performance, hyperparameter tuning is applied using both GridSearchCV and RandomizedSearchCV. The final step involves analyzing the evaluation results to identify and select the best-performing model for the classification task.
 
 ---
 
