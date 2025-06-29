@@ -58,20 +58,20 @@ The dataset used is from Kaggle's **[Titanic: Machine Learning from Disaster](ht
 
 ## How to Run the Project
 
-# 1. Clone the repository
+### 1. Clone the repository
 git clone https://github.com/yourusername/titanic-survival-prediction.git
 cd titanic-survival-prediction
 
-# 2. (Optional) Create a virtual environment
+### 2. (Optional) Create a virtual environment
 python3 -m venv venv
 source venv/bin/activate   # On Windows use: venv\Scripts\activate
 
-# 3. Install required dependencies
+### 3. Install required dependencies
 pip install -r requirements.txt
 
-# If requirements.txt is not present, install manually:
+### If requirements.txt is not present, install manually:
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
 
-# 4. Launch Jupyter Notebook
+### 4. Launch Jupyter Notebook
 jupyter notebook
 Navigate to titanic_survival_prediction.ipynb
